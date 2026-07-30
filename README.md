@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I'm Talha Shaikh 👋<br><br>I'm a third-year Computer Engineering (AI & Machine Learning) student from Navi Mumbai, India, passionate about building intelligent software that creates real-world impact.<br><br>My interests lie at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Data Analysis, and Full-Stack Web Development. I enjoy transforming ideas into practical applications that are not only technically strong but also easy to use.<br><br>Over the past few years, I've worked on AI-powered healthcare systems, deep learning models for medical image analysis, full-stack web applications, and research-driven projects. Every project helps me strengthen my problem-solving skills while exploring modern technologies.<br><br>Beyond coding, I serve as the Design Team Lead of NeurOnyx (AIKTC ACM Student Chapter), where I contribute to branding, hackathons, workshops, and technical community building. This role has strengthened my leadership, teamwork, and project management skills.<br><br>I'm always eager to learn emerging technologies, contribute to open-source projects, collaborate with developers, and build solutions that make a meaningful difference.<br><br>"Code with purpose. Learn with curiosity. Build for impact."
+Hi, I'm Talha Shaikh 👋
+
+I'm a final-year Computer Engineering (AI & Machine Learning) student from Navi Mumbai, India, passionate about building intelligent solutions that solve real-world problems.
+
+My interests span **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Analytics, and Full-Stack Development**, where I enjoy transforming ideas into scalable, user-centric applications.
+
+Beyond development, I serve as the **Design Team Lead of NeurOnyx (AIKTC ACM Student Chapter)**, leading branding, hackathons, workshops, and community-driven initiatives that blend creativity with technology.
+
+I'm continuously exploring emerging technologies, contributing to impactful projects, and striving to build software that creates meaningful value.
+
+> **"Code with purpose. Learn relentlessly. Build for impact."**
 
 
 # 💻 Tech Stack:
